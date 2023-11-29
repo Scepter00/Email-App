@@ -19,6 +19,6 @@ public class EmailAppApplication {
     public void sendMail() {
         emailSenderService.send("ebukachukwunenyeebuka@gmail.com",
                 "Employment Letter",
-                "You have been employed by Chevron Corporation Mr Ebuka Chukwunenyer");
+                "You have been employed by Chevron Corporation Mr Ebuka Henry Chukwunenyer");
     }
 }
